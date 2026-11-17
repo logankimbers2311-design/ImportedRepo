@@ -4,10 +4,11 @@ Then add your name and GitHub username on the last line.
 
 Import:
   Your definition:
+Bringing an existing project or repository from another source or version control system into a new GitHub repository.
 
 Clone:
   Your definition:
-
+Downloading a complete copy of a remote GitHub repository onto your local computer so you can work on it offline.
 Fork:
   Your definition:
 
@@ -23,4 +24,4 @@ Merge:
 Upstream tracking (git push -u):
   Your definition:
 
-Completed by:
+Completed by: Logan Kimbers
